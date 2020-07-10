@@ -1,0 +1,11 @@
+body {background-color:#f1efb9; }
+hr {
+border-style:none;
+border-top-style: dotted;
+border-color: rgb(245, 171, 74);
+border-width: 5px;
+width: 5%;}
+img{ border-color: rgb(245, 171, 74);
+border-style: double;}
+h1{color:navy; font-style: italic;}
+h3{color: cornflowerblue;}
